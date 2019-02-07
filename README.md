@@ -5,7 +5,7 @@ addnode=4d2zuoniemcea2y2ppuvd5zdlzmttnbrpi5exapkhjw2dwrgjgfkcvqd.onion
 addnode=kpd3s4qzxoghna5l.onion
 ```
 
-# Gridcoin tor resoources
+# Gridcoin tor resources
 * Resources list: http://grclstontuuyqjkx.onion/
 * Arikado pool mirror - http://grcaplicvcwrehis.onion/
 * Arikado wallet mirror - http://grcwltvtbof5xukz.onion/
