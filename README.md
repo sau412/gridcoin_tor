@@ -11,7 +11,7 @@ addnode=kpd3s4qzxoghna5l.onion
 * Arikado wallet mirror - http://grcwltvtbof5xukz.onion/
 * Faucet & gambling - http://grcfct2yoj7slw4t.onion/
 
-# Gridcoin in tor instructions
+# Gridcoin client via tor instructions
 * https://steemit.com/gridcoin/@sau412/gridcoin-in-tor-windows
 * https://steemit.com/gridcoin/@sau412/gridcoin-in-tor-ubuntu-linux
 
