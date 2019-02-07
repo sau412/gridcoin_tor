@@ -14,3 +14,6 @@ addnode=kpd3s4qzxoghna5l.onion
 # Gridcoin in tor instructions
 * https://steemit.com/gridcoin/@sau412/gridcoin-in-tor-windows
 * https://steemit.com/gridcoin/@sau412/gridcoin-in-tor-ubuntu-linux
+
+# Other
+* https://steemit.com/gridcoin/@sau412/gridcoin-tor-resources
