@@ -3,6 +3,7 @@
 # sau412 nodes
 addnode=4d2zuoniemcea2y2ppuvd5zdlzmttnbrpi5exapkhjw2dwrgjgfkcvqd.onion
 addnode=kpd3s4qzxoghna5l.onion
+# songiang
 addnode=khpeyk6czkvrf5s7.onion
 # Gridcoin.Network node Lorlea
 addnode=grcnode7ygii7mvmusy7p37w3bte7lacpayuwm4yzwjoxp2z656rouad.onion
