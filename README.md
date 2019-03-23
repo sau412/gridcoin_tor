@@ -7,6 +7,8 @@ addnode=kpd3s4qzxoghna5l.onion
 addnode=khpeyk6czkvrf5s7.onion
 # Gridcoin.Network node Lorlea
 addnode=grcnode7ygii7mvmusy7p37w3bte7lacpayuwm4yzwjoxp2z656rouad.onion
+# Scalextrix
+addnode=p2ceu2u46hysxjvq.onion
 ```
 
 # Gridcoin tor resources
