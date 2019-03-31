@@ -9,6 +9,7 @@ addnode=khpeyk6czkvrf5s7.onion
 addnode=grcnode7ygii7mvmusy7p37w3bte7lacpayuwm4yzwjoxp2z656rouad.onion
 # Scalextrix
 addnode=p2ceu2u46hysxjvq.onion
+addnode=fvvba7bdvvdj2pfnancrh3pul76mzqcl6dg24x24wj4uh4ef4uad5rid.onion
 ```
 
 # Gridcoin tor resources
