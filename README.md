@@ -17,7 +17,7 @@ addnode=fvvba7bdvvdj2pfnancrh3pul76mzqcl6dg24x24wj4uh4ef4uad5rid.onion
 * Arikado Gridcoin Pool - http://grcaplicvcwrehis.onion/
 * Freegridco.in faucet - http://grcfct2yoj7slw4t.onion/
 * Gridcoin Wallet with RPC - http://grcwltvtbof5xukz.onion/
-* Microgrid - ugridmrvj4ajn5wj.onion
+* Microgrid - http://ugridmrvj4ajn5wj.onion/
 * NiceGRC - http://grcnhcuybfa55kpu.onion/
 
 # Gridcoin client via tor instructions
