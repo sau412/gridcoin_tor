@@ -16,7 +16,7 @@ addnode=fvvba7bdvvdj2pfnancrh3pul76mzqcl6dg24x24wj4uh4ef4uad5rid.onion
 * Block Explorer - http://grcnetihvp3u6w26pjo2qhjoea6lnnz5omez5ywsz22g5ctwn5qao3yd.onion/
 * Arikado Gridcoin Pool - http://poolgrcky242zg3a.onion/
 * Freegridco.in faucet - http://faucetmrjznwvfzo.onion/
-* Gridcoin Wallet with RPC - http://grcwltvtbof5xukz.onion/
+* Gridcoin Wallet with RPC - http://wallethaeo3u3m5t.onion/
 * Microgrid - http://ugridmrvj4ajn5wj.onion/
 * NiceGRC - http://nicegrcjssrjoheq.onion/
 
