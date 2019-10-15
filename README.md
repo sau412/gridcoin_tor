@@ -12,7 +12,7 @@ addnode=fvvba7bdvvdj2pfnancrh3pul76mzqcl6dg24x24wj4uh4ef4uad5rid.onion
 ```
 
 # Gridcoin tor resources
-* Resources list: http://grclstontuuyqjkx.onion/
+* Resources list - grclistid6nfcssj.onion
 * Block Explorer - http://grcnetihvp3u6w26pjo2qhjoea6lnnz5omez5ywsz22g5ctwn5qao3yd.onion/
 * Arikado Gridcoin Pool - http://poolgrcky242zg3a.onion/
 * Freegridco.in faucet - http://faucetmrjznwvfzo.onion/
