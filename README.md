@@ -19,7 +19,7 @@ proxy=127.0.0.1:9050
 
 # Gridcoin tor resources
 * Resources list - http://grclstys5zv4sod3cbu2zmsrq3uy3wq5654othyzubrytoeraniiouid.onion/
-* Block Explorer - http://grcnetihvp3u6w26pjo2qhjoea6lnnz5omez5ywsz22g5ctwn5qao3yd.onion/
+* Block Explorer - http://gridcoinoz4l7annb44ng7h2k3btzu6kngzb7pwm7ddvvkebp4uchrqd.onion/
 * Arikado Gridcoin Pool - http://poolgrck72erjgdxdx5ttw3geffnhk2f43bctf33ojn4okq7z6tfr3qd.onion/
 * Freegridco.in faucet - http://faucetwj6zpbp7u5buz34qwka4xd54ftjztccslr7xe3pllkfcrd4iad.onion/
 * Gridcoin Wallet with RPC - http://grcwlt7c6vidlwyq2uipk4xbrrfopiqanwkcyw54ngqszm4g5iim6nid.onion/
